@@ -1,0 +1,284 @@
+---
+title: "Critical Minerals"
+description: "Takshashila's critical minerals programme studies how India can build resilient mineral supply chains through better domestic policy, international partnerships, recycling, and technological adaptation."
+page-layout: full
+title-block-style: none
+---
+
+```{=html}
+<div class="cm-page">
+  <section class="cm-hero" aria-labelledby="page-title">
+    <div class="cm-container cm-hero__inner">
+      <h1 id="page-title">Critical Minerals</h1>
+      <p>Building India’s mineral resilience through better policy, international partnerships, recycling, and technological adaptation.</p>
+    </div>
+  </section>
+
+  <main>
+    <section class="cm-section cm-container" id="approach">
+      <h2>Our Approach</h2>
+      <p class="cm-approach">Critical minerals sit at the intersection of national security, economic growth, technology, and the energy transition. Takshashila’s critical minerals programme studies the political economy of mineral supply chains and develops practical pathways for India across exploration, extraction, processing, recycling, stockpiling, international partnerships, and technological substitution.</p>
+    </section>
+
+    <section class="cm-section cm-container" id="research">
+      <div class="cm-section-heading">
+        <h2>Our Research</h2>
+      </div>
+      <div class="cm-carousel" data-carousel>
+        <div class="cm-card-track" data-carousel-track>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html">
+            <h3>India Should Double Down on Rare Earth Recycling</h3>
+            <p>Tannmay Kumarr Baid, Pranay Kotasthane, Narayan Ramachandran</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/China-Ga-Ge-Export-Restrictions-29032026.html">
+            <h3>Sand Slipping Through Fingers</h3>
+            <p>Amit Kumar, Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20241217-assessing-nature-of-indias-critical-minerals.html">
+            <h3>Assessing India’s Critical Minerals Vulnerabilities vis-à-vis China</h3>
+            <p>Rakshith Shetty</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20230131-The-Rare-Earth-Elements-Opportunity-for-India.html">
+            <h3>The Rare Earth Elements Opportunity for India</h3>
+            <p>Shrikrishna Upadhyaya, Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20201224-a-rare-earths-strategy-for-india.html">
+            <h3>A Rare Earths Strategy for India</h3>
+            <p>Narayan Ramachandran, Aditya Pareek, Anirudh Kanisetti</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20210228-a-rare-earths-strategy-for-india.html">
+            <h3>Blue Paper: A Rare Earths Strategy for India</h3>
+            <p>Anirudh Kanisetti</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+        </div>
+        <div class="cm-carousel-controls" aria-label="Research carousel controls">
+          <button type="button" data-carousel-prev aria-label="Previous research">&lt;</button>
+          <button type="button" data-carousel-next aria-label="Next research">&gt;</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="cm-section cm-container" id="analysis">
+      <div class="cm-section-heading">
+        <h2>Analysis and Op-eds</h2>
+      </div>
+      <div class="cm-carousel" data-carousel>
+        <div class="cm-card-track" data-carousel-track>
+          <a class="cm-content-card" href="https://www.hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html">
+            <h3>Let’s make critical minerals deal work</h3>
+            <p>Shobhankita Reddy, Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://www.moneycontrol.com/news/opinion/what-the-budget-reveals-about-india-s-critical-minerals-goals-13825383.html">
+            <h3>What the Budget reveals about India’s critical minerals goals</h3>
+            <p>Shobhankita Reddy, Tannmay Kumarr Baid</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://www.newindianexpress.com/nation/2026/feb/04/why-indias-vast-monazite-resources-should-be-opened-to-private-sector-mining">
+            <h3>Why India’s vast monazite resources should be opened to private-sector mining</h3>
+            <p>Shobhankita Reddy</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://indianexpress.com/article/opinion/columns/critical-minerals-ministerial-india-should-list-four-priorities-10502901/">
+            <h3>At the Critical Minerals Ministerial, India should list four priorities</h3>
+            <p>Shobhankita Reddy</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://indianexpress.com/article/opinion/columns/critical-minerals-pax-silica-donald-trump-10482197/">
+            <h3>India is talking about critical minerals. But do we have a plan?</h3>
+            <p>Shobhankita Reddy, Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://www.hindustantimes.com/opinion/rare-earths-sector-can-do-with-recycling-thrust-101769970010181.html">
+            <h3>Rare earths sector can do with recycling thrust</h3>
+            <p>Pranay Kotasthane, Tannmay Kumarr Baid</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://www.hindustantimes.com/opinion/rare-earths-in-india-bridging-the-gaps-to-ensure-sufficiency-101764605571306.html">
+            <h3>Rare earths in India: Bridging the gaps to ensure sufficiency</h3>
+            <p>Tannmay Kumarr Baid, Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://timesofindia.indiatimes.com/blogs/toi-edit-page/beijings-rare-earth-playbook-is-tired-its-time-india-wrote-its-own/">
+            <h3>Beijing’s rare earth playbook is tired. It’s time India wrote its own</h3>
+            <p>Tannmay Kumarr Baid, Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://timesofindia.indiatimes.com/blogs/toi-edit-page/chinas-rare-earth-controls-are-not-the-masterstroke-they-seem/">
+            <h3>China’s rare-earth controls are not the masterstroke they seem</h3>
+            <p>Tannmay Kumarr Baid, Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://www.moneycontrol.com/news/opinion/brownfield-mining-operations-are-enough-to-meet-india-s-rare-earth-needs-13338164.html">
+            <h3>Brownfield mining operations are enough to meet India’s rare-earth needs</h3>
+            <p>Tannmay Kumarr Baid</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/blogs/20251020-seven-points-worth-thinking-about-chinas-gameplay-on-rare-earths.html">
+            <h3>Seven Points Worth Thinking About China’s Gameplay on Rare Earths</h3>
+            <p>Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/blogs/20260115-Geopolitics-Critical-Minerals.html">
+            <h3>The Geopolitics of Critical Minerals</h3>
+            <p>Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+        </div>
+        <div class="cm-carousel-controls" aria-label="Analysis carousel controls">
+          <button type="button" data-carousel-prev aria-label="Previous analysis">&lt;</button>
+          <button type="button" data-carousel-next aria-label="Next analysis">&gt;</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="cm-section cm-positions" id="positions">
+      <div class="cm-container">
+        <h2>Our Key Positions</h2>
+        <p class="cm-positions-intro">Policy recommendations for India’s critical minerals sector.</p>
+
+        <div class="cm-position-list">
+          <details class="cm-position" open>
+            <summary>
+              <span>01</span>
+              <strong>Exploration and block auctions</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>Critical and strategic minerals block auctions continuously see poor investor response and a lack of qualified bidders, and eventually get annulled. A recent report about nine critical mineral block auctions being cancelled after seven rounds of attempted sale only exemplifies this.</p>
+              <h3>Theory of Change</h3>
+              <p>Exploration is the leverage point. Reducing the costs of exploration will, in turn, increase interest in extraction.</p>
+              <h3>Solutions</h3>
+              <p>The Exploration License regime should be modelled on semiconductor fab construction projects, promising upfront capital support on a pari passu basis. ​​As with a fab, mining critical minerals is strategically important, and both domains have long gestation periods and require significant upfront capital investment. The Indian government solved this problem in chip fabrication by promising upfront capital support to fabs in the construction phase—companies don’t need to wait for production to begin before the government financial support kicks in. A similar approach could work with exploration license holders as well.</p>
+              <p>Additionally, the progressively competitive two-stage bidding process should be converted to a single-sealed bid process to avoid overbidding.</p>
+              <p>For the exploration of strategically important blocks, a first-come, first-served allocation process may be considered to encourage private-sector participation.</p>
+            </div>
+          </details>
+
+          <details class="cm-position">
+            <summary>
+              <span>02</span>
+              <strong>Rare earth recycling</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>Despite being the world’s third-largest e-waste generator, a formal, domestic rare earth recycling industry is nonexistent. This gap is the outcome of interconnected barriers in market structure, economic viability, and flawed public policy.</p>
+              <h3>Theory of Change</h3>
+              <p>The recycling and urban mining segment is easier to develop than mining and can provide a backstop against supply shocks. Urban mining can turn India’s growing e-waste stream into a domestic source of rare earths. Today, this can supply around 1,300 tonnes of material each year, and this figure could rise above 6,000 tonnes in the next decade as EVs, wind turbines and appliances reach end of life.</p>
+              <h3>Solutions</h3>
+              <p>The current E-Waste management rules and Extended Producer Responsibility (EPR) framework should be amended to differentiate minerals based on their strategic value. For instance, REE-bearing components should be treated as a distinct, high-value category for generating EPR certificates, and implemented through a strategic multiplier system. Under this model, recycling one kilogram of a designated critical material (like NdFeB magnet scrap) would generate significantly more EPR credits than recycling one kilogram of a bulk material (like steel). This would bridge these minerals' strategic value with market incentives.</p>
+              <p>Additionally, India should create a “green channel” for selective, licensed import of specific, high-value, processed scrap (e.g., sorted magnet scrap, battery black mass).</p>
+            </div>
+          </details>
+
+          <details class="cm-position">
+            <summary>
+              <span>03</span>
+              <strong>Offtake guarantees</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>There is no mechanism for long-term offtake guarantees of critical minerals. For instance, the ₹1,500 crore critical mineral recycling scheme is mis-scaled. Its ₹50 crore cap per entity is not enough to materially de-risk investment, as the capital cost of a viable plant can run into thousands of crores.</p>
+              <h3>Theory of Change</h3>
+              <p>Providing long-term offtake guarantees will help cushion investment against China flooding the critical minerals market later.</p>
+              <h3>Solution</h3>
+              <p>India needs an inward and domestic facing KABIL (IN-KABIL). This agency's core mandate should be enabling capital deployment where markets fail. This includes taking minority equity stakes in early projects, providing first-loss guarantees on debt, and most importantly, anchoring long-term offtake guarantees. The IN-KABIL co-investment and offtake framework could bridge the gap.</p>
+            </div>
+          </details>
+
+          <details class="cm-position">
+            <summary>
+              <span>04</span>
+              <strong>A sharper critical minerals list</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>At 51, which is two-thirds of all commercially mined minerals, India's list is too long. This does not help prioritise minerals or guide policy action.</p>
+              <h3>Theory of Change</h3>
+              <p>Classifying critical minerals into categories based on supply-demand variables can lead to a sharper solution set.</p>
+              <h3>Solution</h3>
+              <p>Some minerals don't warrant immediate panic - for example, lanthanum and cerium are in structural oversupply globally, and Brazil has so far balanced its niobium supply dominance with deliberate discipline. Others, like the heavy rare earths, are best suited for stockpiling and eventual phasing out in motors. State intervention to diversify supply and incentivise processing/recycling capability is likely to yield the most immediate results for high volume, base metals (copper, cobalt, lithium, nickel) and minerals with growing demand and widening processing chokepoints in China (graphite). Our dashboard on the mineral-by-mineral analysis, for more details, is <a href="https://indiacriticalminerals.com/#overview">here</a>.</p>
+            </div>
+          </details>
+
+          <details class="cm-position">
+            <summary>
+              <span>05</span>
+              <strong>Private participation in monazite</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>India holds massive, easily extractable reserves of monazite in its beach sands. However, because of its thorium content, monazite is currently a prescribed material under the SHANTI Act and restricted to the monopoly of Indian Rare Earth Limited (IREL). This is a lost opportunity for private sector participation because beach sand is a mechanically concentrated ore with heavy minerals ripe for extraction and useful in several industrial processes.</p>
+              <h3>Theory of Change</h3>
+              <p>Allowing the private sector to access monazite sands is the quickest path for building LREE capacity domestically.</p>
+              <h3>Solution</h3>
+              <p>India must treat monazite as a dual-use ore and replace the blanket ban with a tightly enforced licensing regime and offtake model that allows private mining. A new department of Rare Earths may be created to oversee this model:</p>
+              <p>Private miners would extract the beach sand minerals, but IREL would procure the separated monazite at a guaranteed price floor</p>
+              <p>By guaranteeing a buyer, the government incentivises legal compliance and halts black-market leakage. IREL retains control over the handling and storage of the radioactive thorium (addressing national security concerns), while private players (including foreign partners) can be licensed to commercially process the highly valuable residual REOs.</p>
+              <p>This model should be introduced through pilot zones featuring strict environmental oversight, short-term permits, and clear exit clauses.</p>
+            </div>
+          </details>
+        </div>
+
+        <div class="cm-position-sources">
+          <p>Policy recommendations have been compiled from these writings by the Takshashila Institution</p>
+          <ul>
+            <li><a href="https://publicpolicy.substack.com/p/330-mixed-bags-and-mixed-up-goals?open=false#%C2%A7india-policy-watch-3-indias-critical-minerals-strategy-has-a-mine-sized-gap">Policy impediments to mining in India</a></li>
+            <li><a href="https://www.newindianexpress.com/nation/2026/feb/04/why-indias-vast-monazite-resources-should-be-opened-to-private-sector-mining">Why India's monazite reserves should be opened to the private sector</a></li>
+            <li><a href="https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html#executive-summary">India should double down on rare-earth recycling</a></li>
+            <li><a href="https://www.hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html">On making critical minerals international deals work</a></li>
+            <li><a href="https://takshashila.org.in/content/publications/assets/A-Rare-Earths-Strategy-for-India-TDD-AK-AP-NR-v1.0.pdf">A Rare Earths Strategy for India</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="cm-section cm-container" id="team">
+      <div class="cm-section-heading cm-section-heading--link">
+        <h2>Meet the Critical Minerals Team</h2>
+        <a href="https://takshashila.org.in/pages/team/">View Team</a>
+      </div>
+      <div class="cm-team-grid">
+        <a class="cm-team-card" href="https://takshashila.org.in/content/team/pranay-kotasthane.html">
+          <img src="assets/team/Pranay_Kotasthane.png" alt="Pranay Kotasthane">
+          <div>
+            <h3>Pranay Kotasthane</h3>
+            <p>Deputy Director and Chairs HTG Programme</p>
+          </div>
+        </a>
+        <a class="cm-team-card" href="https://takshashila.org.in/content/team/shobhankita-reddy.html">
+          <img src="assets/team/Shobhankita_Reddy.png" alt="Shobhankita Reddy">
+          <div>
+            <h3>Shobhankita Reddy</h3>
+            <p>Research analyst for the High Tech Geopolitics Programme</p>
+          </div>
+        </a>
+        <a class="cm-team-card" href="https://takshashila.org.in/content/team/tannmay-kumarr-baid.html">
+          <img src="assets/team/Tannmay_Kumarr_Baid.png" alt="Tannmay Kumarr Baid">
+          <div>
+            <h3>Tannmay Kumarr Baid</h3>
+            <p>Junior Adjunct Scholar for the High-Tech Geopolitics Programme</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <section class="cm-section cm-course">
+      <div class="cm-container cm-course__inner">
+        <div>
+          <h2>Want to build your expertise in <span>critical minerals</span>?</h2>
+          <p>Our Politics and Policy of Critical Minerals Expert Capsule Course is a four-week online programme on the geopolitics, economics, technology, and policy of critical minerals.</p>
+        </div>
+        <a class="cm-primary-button" href="https://takshashila.org.in/pages/policy-school/ecc-critical-minerals.html">View Course Details</a>
+      </div>
+    </section>
+  </main>
+</div>
+<script src="site.js" defer></script>
+```

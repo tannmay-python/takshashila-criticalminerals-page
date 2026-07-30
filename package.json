@@ -1,0 +1,9 @@
+{
+  "name": "takshashila-criticalminerals-page",
+  "private": true,
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "check:links": "node scripts/link-check.mjs",
+    "render": "quarto render"
+  }
+}

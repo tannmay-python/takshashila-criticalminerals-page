@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+
+website:
+  title: "Takshashila Institution"
+  site-url: "https://tannmay-python.github.io/takshashila-criticalminerals-page/"
+  favicon: assets/favicon.ico
+  navbar:
+    background: "#620d3c"
+    logo: assets/main-logo-dark.svg
+    logo-alt: "Takshashila Institution"
+    left:
+      - text: "Our Research"
+        href: "https://takshashila.org.in/pages/research-areas/"
+      - text: "Policy School"
+        href: "https://takshashila.org.in/pages/policy-school/"
+      - text: "About Us"
+        href: "https://takshashila.org.in/pages/mission.html"
+      - text: "Engage with Us"
+        href: "https://takshashila.org.in/pages/publications/"
+      - text: "Careers"
+        href: "https://takshashila.org.in/pages/careers/"
+      - text: "Support Our Work"
+        href: "https://pages.razorpay.com/pl_CpfxYr4yEnyIl4/view"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-after-body: site-footer.html
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
