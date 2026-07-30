@@ -51,7 +51,11 @@ That metadata would then need to be added consistently to every included publica
 
 ## Shared styles
 
-The production site already loads `assets/css/takshashila-base-20260723.css`. Move only the rules prefixed with `.cm-` from `styles.css` into the site's relevant research-area stylesheet, or add `styles.css` to the page frontmatter. Do not duplicate the navbar, footer, global font, or base token rules.
+The production site already loads `assets/css/takshashila-base-20260723.css` and the compiled Quarto theme, which provide the real Inter and Roboto Mono files, the navbar, the footer, the 17px root type scale, and the shared brand tokens. Those global parts will be inherited automatically when this page is rendered inside the full Takshashila project.
+
+The page-specific layout will not be inherited automatically. Move the rules prefixed with `.cm-` from `styles.css` into the site's relevant research-area stylesheet, or add `styles.css` to this page's frontmatter. The standalone preview also contains `@font-face`, navbar, and footer rules so it can reproduce the full-site appearance on GitHub Pages; do not copy those global preview rules into the production website.
+
+The preview's measurements were matched against the rendered Space Power page: a 1,240px hero, a 1,010px content column, the site's responsive type scale, 320px publication cards on desktop, and the same mobile breakpoints. If the main website theme changes later, its global navigation and typography will update automatically, while the `.cm-` component rules remain scoped to this page.
 
 ## Build and verify
 
