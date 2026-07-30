@@ -29,7 +29,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: critical-minerals.css
     include-after-body: site-footer.html
     toc: false
     smooth-scroll: true
