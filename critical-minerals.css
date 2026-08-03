@@ -435,38 +435,6 @@ body main.content .cm-section h2 {
   text-underline-offset: 3px;
 }
 
-.cm-position-sources {
-  max-width: 980px;
-  margin-top: 34px;
-  padding: 24px 28px;
-  border: 1px solid var(--tk-rule);
-  border-radius: 8px;
-  background: #fff;
-}
-
-.cm-position-sources p {
-  margin: 0 0 14px;
-  font-weight: 500;
-}
-
-.cm-position-sources ul {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 8px 30px;
-  margin: 0;
-  padding-left: 20px;
-}
-
-.cm-position-sources li {
-  padding-left: 4px;
-}
-
-.cm-position-sources a {
-  color: var(--tk-primary);
-  font-weight: 500;
-  text-underline-offset: 3px;
-}
-
 .cm-team-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -765,14 +733,6 @@ body main.content .cm-section h2 {
 
   .cm-position-body p {
     font-size: 16px;
-  }
-
-  .cm-position-sources {
-    padding: 20px;
-  }
-
-  .cm-position-sources ul {
-    grid-template-columns: 1fr;
   }
 
   .cm-team-grid {

@@ -14,7 +14,7 @@ The live Space Power page follows this pattern:
 2. An approach section.
 3. A custom Quarto publication listing rendered as a horizontal carousel.
 4. A custom team listing.
-5. A course callout.
+5. A course callout placed immediately after the approach.
 
 This repository reproduces that pattern in a self-contained Quarto project so it can be reviewed on GitHub Pages without requiring the entire private website source.
 

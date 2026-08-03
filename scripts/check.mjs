@@ -37,8 +37,8 @@ assert.equal(
 
 assert.equal(
   (source.match(/class="cm-content-card"/g) ?? []).length,
-  18,
-  "Expected six research cards and twelve analysis cards",
+  21,
+  "Expected seven research cards and fourteen analysis cards",
 );
 
 assert(
@@ -49,8 +49,28 @@ assert(
 );
 
 assert(
-  source.includes("https://indiacriticalminerals.com/#overview"),
+  source.includes("https://indiacriticalminerals.com/"),
   "Missing critical minerals dashboard link",
+);
+
+assert(
+  source.includes("The first edition brought together 65 students"),
+  "Missing first-course-edition cohort detail",
+);
+
+assert(
+  source.includes("India’s reliance on China for critical minerals"),
+  "Missing Rakshith Shetty's The Hindu analysis",
+);
+
+assert(
+  source.includes("India, EU forge mineral diplomacy"),
+  "Missing Shobhankita Reddy's Deccan Herald analysis",
+);
+
+assert(
+  !source.includes("cm-position-sources"),
+  "Duplicated policy-source box should not be present",
 );
 
 assert(!source.includes("generated_images"), "Generated imagery must not be used");

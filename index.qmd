@@ -1,6 +1,6 @@
 ---
 title: "Critical Minerals"
-description: "Takshashila's critical minerals programme studies how India can build resilient mineral supply chains through better domestic policy, international partnerships, recycling, and technological adaptation."
+description: "Takshashila's Critical Minerals Programme studies the geopolitics and political economy of the minerals that underpin India's energy, technology, and national-security ambitions."
 page-layout: full
 title-block-style: none
 ---
@@ -10,14 +10,24 @@ title-block-style: none
   <section class="cm-hero" aria-labelledby="page-title">
     <div class="cm-container cm-hero__inner">
       <h1 id="page-title">Critical Minerals</h1>
-      <p>Building India’s mineral resilience through better policy, international partnerships, recycling, and technological adaptation.</p>
+      <p>We study the geopolitics and political economy of the minerals that underpin India’s energy, technology, and national-security ambitions.</p>
     </div>
   </section>
 
   <main>
     <section class="cm-section cm-container" id="approach">
       <h2>Our Approach</h2>
-      <p class="cm-approach">Critical minerals sit at the intersection of national security, economic growth, technology, and the energy transition. Takshashila’s critical minerals programme studies the political economy of mineral supply chains and develops practical pathways for India across exploration, extraction, processing, recycling, stockpiling, international partnerships, and technological substitution.</p>
+      <p class="cm-approach">Critical minerals are not a single policy problem. Their supply chains combine concentrated production, state intervention, volatile markets, and long project timelines, making conventional ideas of self-sufficiency both costly and misleading. The programme studies where dependence creates genuine strategic risk, which parts of the value chain India should build at home, and where trade, stockpiling, recycling, substitution, and international partnerships offer better answers. Our work turns mineral-by-mineral analysis into practical choices for government and industry.</p>
+    </section>
+
+    <section class="cm-section cm-course" id="course">
+      <div class="cm-container cm-course__inner">
+        <div>
+          <h2>Want to build your expertise in <span>critical minerals</span>?</h2>
+          <p>Politics and Policy of Critical Minerals is our four-week online Expert Capsule Course for professionals, students, and others who want to understand how geology, markets, technology, and state power shape mineral supply chains. Through live webinars, real-world case studies, expert guest lectures, and discussions, the course examines China’s dominance, competing national strategies, India’s policy choices, and the limits of substitution and recycling. The first edition brought together 65 students keen to understand one of the defining geopolitical and economic questions of this decade.</p>
+        </div>
+        <a class="cm-primary-button" href="https://takshashila.org.in/pages/policy-school/ecc-critical-minerals.html">View Course Details</a>
+      </div>
     </section>
 
     <section class="cm-section cm-container" id="research">
@@ -26,6 +36,11 @@ title-block-style: none
       </div>
       <div class="cm-carousel" data-carousel>
         <div class="cm-card-track" data-carousel-track>
+          <a class="cm-content-card" href="https://indiacriticalminerals.com/">
+            <h3>India Critical Minerals Dashboard</h3>
+            <p>Tannmay Kumarr Baid, Shobhankita Reddy</p>
+            <span>Explore dashboard <span aria-hidden="true">→</span></span>
+          </a>
           <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html">
             <h3>India Should Double Down on Rare Earth Recycling</h3>
             <p>Tannmay Kumarr Baid, Pranay Kotasthane, Narayan Ramachandran</p>
@@ -73,6 +88,16 @@ title-block-style: none
           <a class="cm-content-card" href="https://www.hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html">
             <h3>Let’s make critical minerals deal work</h3>
             <p>Shobhankita Reddy, Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://www.deccanherald.com/opinion/india-eu-forge-mineral-diplomacy-3895403">
+            <h3>India, EU forge mineral diplomacy</h3>
+            <p>Shobhankita Reddy</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://www.thehindu.com/business/Industry/indias-reliance-on-china-for-critical-minerals-explained/article69020390.ece">
+            <h3>India’s reliance on China for critical minerals</h3>
+            <p>Rakshith Shetty</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
           <a class="cm-content-card" href="https://www.moneycontrol.com/news/opinion/what-the-budget-reveals-about-india-s-critical-minerals-goals-13825383.html">
@@ -226,16 +251,6 @@ title-block-style: none
           </details>
         </div>
 
-        <div class="cm-position-sources">
-          <p>Policy recommendations have been compiled from these writings by the Takshashila Institution</p>
-          <ul>
-            <li><a href="https://publicpolicy.substack.com/p/330-mixed-bags-and-mixed-up-goals?open=false#%C2%A7india-policy-watch-3-indias-critical-minerals-strategy-has-a-mine-sized-gap">Policy impediments to mining in India</a></li>
-            <li><a href="https://www.newindianexpress.com/nation/2026/feb/04/why-indias-vast-monazite-resources-should-be-opened-to-private-sector-mining">Why India's monazite reserves should be opened to the private sector</a></li>
-            <li><a href="https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html#executive-summary">India should double down on rare-earth recycling</a></li>
-            <li><a href="https://www.hindustantimes.com/opinion/lets-make-critical-minerals-deal-work-101780587561378.html">On making critical minerals international deals work</a></li>
-            <li><a href="https://takshashila.org.in/content/publications/assets/A-Rare-Earths-Strategy-for-India-TDD-AK-AP-NR-v1.0.pdf">A Rare Earths Strategy for India</a></li>
-          </ul>
-        </div>
       </div>
     </section>
 
@@ -269,15 +284,6 @@ title-block-style: none
       </div>
     </section>
 
-    <section class="cm-section cm-course">
-      <div class="cm-container cm-course__inner">
-        <div>
-          <h2>Want to build your expertise in <span>critical minerals</span>?</h2>
-          <p>Our Politics and Policy of Critical Minerals Expert Capsule Course is a four-week online programme on the geopolitics, economics, technology, and policy of critical minerals.</p>
-        </div>
-        <a class="cm-primary-button" href="https://takshashila.org.in/pages/policy-school/ecc-critical-minerals.html">View Course Details</a>
-      </div>
-    </section>
   </main>
 </div>
 <script src="site.js" defer></script>
