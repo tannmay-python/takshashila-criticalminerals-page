@@ -37,8 +37,8 @@ assert.equal(
 
 assert.equal(
   (source.match(/class="cm-content-card"/g) ?? []).length,
-  21,
-  "Expected seven research cards and fourteen analysis cards",
+  20,
+  "Expected six research cards and fourteen analysis cards",
 );
 
 assert(
@@ -51,6 +51,22 @@ assert(
 assert(
   source.includes("https://indiacriticalminerals.com/"),
   "Missing critical minerals dashboard link",
+);
+
+assert(
+  source.includes('id="featured-research"') &&
+    source.includes('class="cm-featured__panel"'),
+  "Missing featured research section",
+);
+
+const researchSection = source.slice(
+  source.indexOf('id="research"'),
+  source.indexOf('id="analysis"'),
+);
+
+assert(
+  !researchSection.includes("India Critical Minerals Dashboard"),
+  "Dashboard should not be duplicated in the standard research carousel",
 );
 
 assert(

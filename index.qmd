@@ -30,17 +30,29 @@ title-block-style: none
       </div>
     </section>
 
+    <section class="cm-section cm-featured" id="featured-research" aria-labelledby="featured-research-title">
+      <div class="cm-container cm-featured__grid">
+        <div class="cm-featured__context">
+          <h2 id="featured-research-title">Featured Research</h2>
+          <p>Interactive work from the Critical Minerals Programme.</p>
+        </div>
+        <article class="cm-featured__panel">
+          <p class="cm-featured__eyebrow">─── Critical minerals</p>
+          <h3>India Critical Minerals Dashboard</h3>
+          <p class="cm-featured__blurb">A mineral-by-mineral analysis of India’s list of 51 critical minerals, scored across ten vectors to distinguish immediate vulnerabilities from lower-priority concerns.</p>
+          <p class="cm-featured__byline">Tannmay Kumarr Baid and Shobhankita Reddy</p>
+          <p class="cm-featured__status"><span aria-hidden="true"></span> Live dashboard</p>
+          <a class="cm-featured__link" href="https://indiacriticalminerals.com/">Explore the dashboard →</a>
+        </article>
+      </div>
+    </section>
+
     <section class="cm-section cm-container" id="research">
       <div class="cm-section-heading">
         <h2>Our Research</h2>
       </div>
       <div class="cm-carousel" data-carousel>
         <div class="cm-card-track" data-carousel-track>
-          <a class="cm-content-card" href="https://indiacriticalminerals.com/">
-            <h3>India Critical Minerals Dashboard</h3>
-            <p>Tannmay Kumarr Baid, Shobhankita Reddy</p>
-            <span>Explore dashboard <span aria-hidden="true">→</span></span>
-          </a>
           <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html">
             <h3>India Should Double Down on Rare Earth Recycling</h3>
             <p>Tannmay Kumarr Baid, Pranay Kotasthane, Narayan Ramachandran</p>

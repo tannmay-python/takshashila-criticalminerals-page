@@ -12,7 +12,7 @@ The live Space Power page follows this pattern:
 
 1. A programme-page title block.
 2. An approach section.
-3. A custom Quarto publication listing rendered as a horizontal carousel.
+3. A featured-research callout followed by a custom Quarto publication listing rendered as a horizontal carousel.
 4. A custom team listing.
 5. A course callout placed immediately after the approach.
 
