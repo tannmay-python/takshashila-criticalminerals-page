@@ -629,7 +629,7 @@ body main.content .cm-section h2 {
 .cm-course__inner {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
-  align-items: end;
+  align-items: center;
   gap: 56px;
 }
 
