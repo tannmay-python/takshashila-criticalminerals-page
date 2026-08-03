@@ -6,7 +6,9 @@ document.querySelectorAll("[data-carousel]").forEach((carousel) => {
   if (!track || !previous || !next) return;
 
   const scrollDistance = () => {
-    const card = track.querySelector(".cm-content-card");
+    const card = track.querySelector(
+      ".cm-content-card, .cm-media-card, .cm-event-card",
+    );
     const gap = Number.parseFloat(getComputedStyle(track).columnGap) || 0;
     return card ? card.getBoundingClientRect().width + gap : track.clientWidth;
   };

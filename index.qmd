@@ -167,6 +167,84 @@ title-block-style: none
       </div>
     </section>
 
+    <section class="cm-section cm-container" id="media">
+      <div class="cm-section-heading cm-section-heading--link">
+        <h2>Video and Podcasts</h2>
+        <a href="https://legion.takshashila.org.in/all-things-policy">All Things Policy</a>
+      </div>
+      <div class="cm-carousel" data-carousel>
+        <div class="cm-card-track" data-carousel-track>
+          <a class="cm-media-card" href="https://www.youtube.com/watch?v=hOPzsR3hiR8">
+            <span class="cm-card-kicker">VIDEO · THE HINDU · 24 FEB 2026</span>
+            <h3>India’s Rare Earth Strategy: Digging Beneath the Budget Announcements</h3>
+            <p>Shobhankita Reddy on what India’s rare earth corridors and magnet manufacturing plans can and cannot solve.</p>
+            <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-media-card" href="https://podcasts.apple.com/in/podcast/india-should-double-down-on-rare-earth-recycling/id1166552728?i=1000750247855">
+            <span class="cm-card-kicker">PODCAST · ALL THINGS POLICY · 18 FEB 2026</span>
+            <h3>India Should Double Down on Rare Earth Recycling</h3>
+            <p>Shobhankita Reddy and Tannmay Kumarr Baid discuss the practical steps behind a domestic rare earth recycling industry.</p>
+            <span class="cm-card-cta">Listen <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-media-card" href="https://podcasts.apple.com/us/podcast/the-geopolitics-of-rare-earths/id1166552728?i=1000736534689">
+            <span class="cm-card-kicker">PODCAST · ALL THINGS POLICY · 13 NOV 2025</span>
+            <h3>The Geopolitics of Rare Earths</h3>
+            <p>Manoj Kewalramani and Pranay Kotasthane on China’s leverage, strategic competition, and the future of rare earth supply chains.</p>
+            <span class="cm-card-cta">Listen <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-media-card" href="https://www.mercatus.org/ideasofindia/pranay-kotasthane-political-economy-rare-earths-and-critical-minerals">
+            <span class="cm-card-kicker">PODCAST · IDEAS OF INDIA · 26 FEB 2026</span>
+            <h3>Pranay Kotasthane on the Political Economy of Rare Earths and Critical Minerals</h3>
+            <p>Shruti Rajagopalan speaks with Pranay Kotasthane about China’s dominance, India’s capabilities, recycling, and geopolitics.</p>
+            <span class="cm-card-cta">Listen <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-media-card" href="https://stratnewsglobal.com/the-gist/worlds-manufacturing-capacity-has-hollowed-and-gone-to-china/">
+            <span class="cm-card-kicker">VIDEO · STRATNEWS GLOBAL · 26 JUN 2026</span>
+            <h3>World’s Manufacturing Capacity Has Hollowed and Gone to China</h3>
+            <p>Shobhankita Reddy on the India US critical minerals framework, the Quad initiative, and why capital support matters.</p>
+            <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+          </a>
+        </div>
+        <div class="cm-carousel-controls" aria-label="Video and podcast carousel controls">
+          <button type="button" data-carousel-prev aria-label="Previous video or podcast">&lt;</button>
+          <button type="button" data-carousel-next aria-label="Next video or podcast">&gt;</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="cm-section cm-container" id="events">
+      <div class="cm-section-heading cm-section-heading--link">
+        <h2>Events</h2>
+        <a href="https://takshashila.org.in/pages/events/">View all events</a>
+      </div>
+      <div class="cm-carousel" data-carousel>
+        <div class="cm-card-track" data-carousel-track>
+          <a class="cm-event-card" href="https://legion.takshashila.org.in/events/critical-minerals-strategic-importance-and-challenges">
+            <span class="cm-card-kicker">04 MAR 2025 · BENGALURU</span>
+            <h3>Critical Minerals: Strategic Importance and Challenges</h3>
+            <p>A roundtable with Dr Thomas Lograsso, Takshashila researchers, and Christ University’s Center for East Asian Studies.</p>
+            <span class="cm-card-cta">Event details <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-event-card" href="https://takshashila.org.in/content/blogs/20260115-Geopolitics-Critical-Minerals.html">
+            <span class="cm-card-kicker">JAN 2026 · ASIA CENTRE AND ICWA</span>
+            <h3>Critical Minerals and Rare Earths: Complexities and the Way Ahead</h3>
+            <p>At this conference, Pranay Kotasthane spoke on the geopolitics of critical minerals alongside experts from government, industry, and academia.</p>
+            <span class="cm-card-cta">Read the takeaways <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-event-card" href="https://takshashila.org.in/content/events/TNAS-Conference-.html">
+            <span class="cm-card-kicker">27 FEB TO 01 MAR 2026 · BENGALURU</span>
+            <h3>TNAS Conference 2026: Emerging Technologies and Supply Chains</h3>
+            <p>The NAST track examined India’s supply-chain vulnerabilities, including critical minerals for solar energy and clean-energy infrastructure.</p>
+            <span class="cm-card-cta">Event details <span aria-hidden="true">→</span></span>
+          </a>
+        </div>
+        <div class="cm-carousel-controls" aria-label="Events carousel controls">
+          <button type="button" data-carousel-prev aria-label="Previous event">&lt;</button>
+          <button type="button" data-carousel-next aria-label="Next event">&gt;</button>
+        </div>
+      </div>
+    </section>
+
     <section class="cm-section cm-positions" id="positions">
       <div class="cm-container">
         <h2>Our Key Positions</h2>

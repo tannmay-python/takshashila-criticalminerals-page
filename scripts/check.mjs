@@ -46,6 +46,18 @@ assert.equal(
   "Expected six research cards and fourteen analysis cards",
 );
 
+assert.equal(
+  (source.match(/class="cm-media-card"/g) ?? []).length,
+  5,
+  "Expected five video and podcast cards",
+);
+
+assert.equal(
+  (source.match(/class="cm-event-card"/g) ?? []).length,
+  3,
+  "Expected three event cards",
+);
+
 assert(
   source.includes(
     "https://takshashila.org.in/pages/policy-school/ecc-critical-minerals.html",
@@ -62,6 +74,19 @@ assert(
   source.includes('id="featured-research"') &&
     source.includes('class="cm-featured__panel"'),
   "Missing featured research section",
+);
+
+assert(
+  source.includes('id="media"') &&
+    source.includes("India’s Rare Earth Strategy: Digging Beneath the Budget Announcements") &&
+    source.includes("The Geopolitics of Rare Earths"),
+  "Missing video and podcast section",
+);
+
+assert(
+  source.includes('id="events"') &&
+    source.includes("Critical Minerals: Strategic Importance and Challenges"),
+  "Missing events section",
 );
 
 const researchSection = source.slice(
