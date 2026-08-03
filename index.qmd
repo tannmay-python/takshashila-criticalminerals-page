@@ -1,6 +1,6 @@
 ---
 title: "Critical Minerals"
-description: "Takshashila's Critical Minerals Programme studies the geopolitics and political economy of the minerals that underpin India's energy, technology, and national-security ambitions."
+description: "Takshashila's Critical Minerals Programme studies the geopolitics of the minerals that underpin India's energy, technology, and national-security ambitions."
 page-layout: full
 title-block-style: none
 ---
@@ -10,7 +10,7 @@ title-block-style: none
   <section class="cm-hero" aria-labelledby="page-title">
     <div class="cm-container cm-hero__inner">
       <h1 id="page-title">Critical Minerals</h1>
-      <p>We study the geopolitics and political economy of the minerals that underpin India’s energy, technology, and national-security ambitions.</p>
+      <p>We study the geopolitics of the minerals that underpin India’s energy, technology, and national-security ambitions.</p>
     </div>
   </section>
 
@@ -22,7 +22,6 @@ title-block-style: none
           <p>Interactive work from the Critical Minerals Programme.</p>
         </div>
         <article class="cm-featured__panel">
-          <p class="cm-featured__eyebrow">─── Critical minerals</p>
           <h3>India Critical Minerals Dashboard</h3>
           <p class="cm-featured__blurb">A mineral-by-mineral analysis of India’s list of 51 critical minerals, scored across ten vectors to distinguish immediate vulnerabilities from lower-priority concerns.</p>
           <p class="cm-featured__byline">Tannmay Kumarr Baid and Shobhankita Reddy</p>
@@ -35,7 +34,7 @@ title-block-style: none
     <section class="cm-section cm-course" id="course">
       <div class="cm-container cm-course__inner">
         <h2>Want to build your expertise in <span>critical minerals</span>?</h2>
-        <p>Politics and Policy of Critical Minerals is our four-week online Expert Capsule Course for professionals, students, and others who want to understand how geology, markets, technology, and state power shape mineral supply chains. Through live webinars, real-world case studies, expert guest lectures, and discussions, the course examines China’s dominance, competing national strategies, India’s policy choices, and the limits of substitution and recycling. The first edition brought together 65 students keen to understand one of the defining geopolitical and economic questions of this decade.</p>
+        <p>Politics and Policy of Critical Minerals is our four-week online Expert Capsule Course for professionals, students, and others who want to understand how geology, geopolitics, markets, technology, and state power shape mineral supply chains. Through live webinars, real-world case studies, expert guest lectures, and discussions, the course examines China’s dominance, the difficulty of reducing dependence on China, competing national strategies, India’s policy choices, and the limits of substitution and recycling. The first edition brought together 65 students interested in the geopolitical questions shaping this decade.</p>
         <a class="cm-primary-button" href="https://takshashila.org.in/pages/policy-school/ecc-critical-minerals.html">View Course Details</a>
       </div>
     </section>
