@@ -30,6 +30,7 @@ format:
   html:
     theme: cosmo
     css: critical-minerals.css
+    title-prefix: ""
     include-after-body: site-footer.html
     toc: false
     smooth-scroll: true
