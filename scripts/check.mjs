@@ -14,11 +14,11 @@ const expectedTeam = [
 ];
 
 const expectedPositionText = [
-  "Exploration is the leverage point. Reducing the costs of exploration will, in turn, increase interest in extraction.",
-  "Urban mining can turn India’s growing e-waste stream into a domestic source of rare earths.",
-  "Providing long-term offtake guarantees will help cushion investment against China flooding the critical minerals market later.",
-  "Classifying critical minerals into categories based on supply-demand variables can lead to a sharper solution set.",
-  "Allowing the private sector to access monazite sands is the quickest path for building LREE capacity domestically.",
+  "Exploration is the bottleneck. Lowering its cost should make extraction projects more attractive.",
+  "India’s e-waste stream already contains enough material to supply around 1,300 tonnes a year.",
+  "Long-term offtake contracts can protect projects if China later floods the market and drives prices down.",
+  "Classify minerals by supply and demand conditions, then match each group to an appropriate policy response.",
+  "Private access to monazite sands would help India build LREE capacity more quickly.",
 ];
 
 assert(
