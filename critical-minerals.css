@@ -629,11 +629,15 @@ body main.content .cm-section h2 {
 .cm-course__inner {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
-  align-items: center;
-  gap: 56px;
+  grid-template-rows: auto auto;
+  align-items: start;
+  column-gap: 56px;
+  row-gap: 0;
 }
 
 .cm-course h2 {
+  grid-column: 1;
+  grid-row: 1;
   max-width: 760px;
   margin-bottom: 18px;
 }
@@ -643,12 +647,20 @@ body main.content .cm-section h2 {
 }
 
 .cm-course p {
+  grid-column: 1;
+  grid-row: 2;
   max-width: 780px;
   margin: 0;
   color: dimgray;
   font-size: var(--font-size-base);
   font-weight: 400;
   line-height: 1.5;
+}
+
+.cm-course .cm-primary-button {
+  grid-column: 2;
+  grid-row: 2;
+  align-self: center;
 }
 
 .cm-primary-button {
@@ -794,8 +806,30 @@ body main.content .cm-section h2 {
 
   .cm-course__inner {
     grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
     align-items: start;
-    gap: 28px;
+    column-gap: 28px;
+    row-gap: 0;
+  }
+
+  .cm-course h2,
+  .cm-course p,
+  .cm-course .cm-primary-button {
+    grid-column: 1;
+  }
+
+  .cm-course h2 {
+    grid-row: 1;
+  }
+
+  .cm-course p {
+    grid-row: 2;
+  }
+
+  .cm-course .cm-primary-button {
+    grid-row: 3;
+    align-self: start;
+    margin-top: 28px;
   }
 
   .cm-site-footer__inner {
@@ -906,7 +940,11 @@ body main.content .cm-section h2 {
   }
 
   .cm-course__inner {
-    gap: 24px;
+    column-gap: 24px;
+  }
+
+  .cm-course .cm-primary-button {
+    margin-top: 24px;
   }
 
   .cm-primary-button {
