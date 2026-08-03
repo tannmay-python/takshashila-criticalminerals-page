@@ -136,6 +136,11 @@ body main.content {
   overflow: clip;
 }
 
+.cm-page > main {
+  margin: 0;
+  padding: 0;
+}
+
 .cm-container {
   width: min(100%, var(--tk-max));
   margin-inline: auto;
@@ -200,7 +205,7 @@ body main.content .cm-section h2 {
 }
 
 .cm-featured {
-  border-block: 1px solid var(--tk-rule);
+  border-bottom: 1px solid var(--tk-rule);
   background: var(--tk-bg-deep);
 }
 
@@ -618,7 +623,6 @@ body main.content .cm-section h2 {
 }
 
 .cm-course {
-  border-top: 1px solid var(--tk-rule);
   background: var(--tk-bg);
 }
 
@@ -674,6 +678,14 @@ body main.content .cm-section h2 {
 
 .cm-primary-button:active {
   transform: translateY(1px);
+}
+
+.cm-page a:focus-visible,
+.cm-page button:focus-visible,
+.cm-page summary:focus-visible,
+.cm-site-footer a:focus-visible {
+  outline: 3px solid var(--tk-gold);
+  outline-offset: 3px;
 }
 
 .cm-site-footer {
