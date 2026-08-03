@@ -199,14 +199,6 @@ body main.content .cm-section h2 {
   margin-top: 0 !important;
 }
 
-.cm-approach {
-  max-width: none;
-  margin: 0;
-  font-size: var(--font-size-base);
-  font-weight: 300;
-  line-height: 1.5;
-}
-
 .cm-featured {
   border-block: 1px solid var(--tk-rule);
   background: var(--tk-bg-deep);
@@ -834,7 +826,6 @@ body main.content .cm-section h2 {
     font-size: 17px;
   }
 
-  .cm-approach,
   .cm-course p {
     font-size: 17px;
   }

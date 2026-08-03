@@ -8,13 +8,12 @@ The current Takshashila website is a Quarto website. Its editable pages are prim
 - `content/`: publications, blogs, team profiles, programmes, and their images.
 - `_quarto.yml` and `_metadata.yml`: global build configuration and defaults.
 
-The live Space Power page follows this pattern:
+This Critical Minerals page adapts the Space Power page into this pattern:
 
 1. A programme-page title block.
-2. An approach section.
+2. A course callout.
 3. A featured-research callout followed by a custom Quarto publication listing rendered as a horizontal carousel.
 4. A custom team listing.
-5. A course callout placed immediately after the approach.
 
 This repository reproduces that pattern in a self-contained Quarto project so it can be reviewed on GitHub Pages without requiring the entire private website source.
 

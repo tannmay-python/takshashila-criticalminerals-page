@@ -15,11 +15,6 @@ title-block-style: none
   </section>
 
   <main>
-    <section class="cm-section cm-container" id="approach">
-      <h2>Our Approach</h2>
-      <p class="cm-approach">Critical minerals are not a single policy problem. Their supply chains combine concentrated production, state intervention, volatile markets, and long project timelines, making conventional ideas of self-sufficiency both costly and misleading. The programme studies where dependence creates genuine strategic risk, which parts of the value chain India should build at home, and where trade, stockpiling, recycling, substitution, and international partnerships offer better answers. Our work turns mineral-by-mineral analysis into practical choices for government and industry.</p>
-    </section>
-
     <section class="cm-section cm-course" id="course">
       <div class="cm-container cm-course__inner">
         <div>

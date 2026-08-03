@@ -21,6 +21,11 @@ const expectedPositionText = [
   "Allowing the private sector to access monazite sands is the quickest path for building LREE capacity domestically.",
 ];
 
+assert(
+  !source.includes('id="approach"') && !source.includes("Our Approach"),
+  "Removed approach section should not be present",
+);
+
 for (const name of expectedTeam) {
   assert(source.includes(name), `Missing team member: ${name}`);
 }
