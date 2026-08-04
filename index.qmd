@@ -1,6 +1,6 @@
 ---
-title: "Critical Minerals"
-description: "Takshashila's Critical Minerals Programme studies the geopolitics of the minerals that underpin India's energy, technology, and national-security ambitions."
+title: "Critical Minerals Desk"
+description: "Takshashila's Critical Minerals Desk studies the policy, technology, and geopolitics shaping India's mineral supply chains."
 page-layout: full
 title-block-style: none
 ---
@@ -9,8 +9,8 @@ title-block-style: none
 <div class="cm-page">
   <section class="cm-hero" aria-labelledby="page-title">
     <div class="cm-container cm-hero__inner">
-      <h1 id="page-title">Critical Minerals</h1>
-      <p>We study the geopolitics of the minerals that underpin India’s energy, technology, and national-security ambitions.</p>
+      <h1 id="page-title">Critical Minerals Desk</h1>
+      <p>The Critical Minerals Desk studies the policy and geopolitics of the minerals that power energy systems, advanced manufacturing, and strategic technologies. We track how exploration, processing, technology, and trade shape India’s choices. Our work develops practical ideas for secure, competitive supply chains while accounting for costs, markets, and environmental constraints.</p>
     </div>
   </section>
 
@@ -19,7 +19,7 @@ title-block-style: none
       <div class="cm-container cm-featured__grid">
         <div class="cm-featured__context">
           <h2 id="featured-research-title">Featured Research</h2>
-          <p>Interactive work from the Critical Minerals Programme.</p>
+          <p>Interactive work from the Critical Minerals Desk.</p>
         </div>
         <article class="cm-featured__panel">
           <h3>India Critical Minerals Dashboard</h3>
@@ -34,7 +34,8 @@ title-block-style: none
     <section class="cm-section cm-course" id="course">
       <div class="cm-container cm-course__inner">
         <h2>Want to build your expertise in <span>critical minerals</span>?</h2>
-        <p>Politics and Policy of Critical Minerals is our four-week online Expert Capsule Course for professionals, students, and others who want to understand how geology, geopolitics, markets, technology, and state power shape mineral supply chains. Through live webinars, real-world case studies, expert guest lectures, and discussions, the course examines China’s dominance, the difficulty of reducing dependence on China, competing national strategies, India’s policy choices, and the limits of substitution and recycling. The first edition brought together 65 students interested in the geopolitical questions shaping this decade.</p>
+        <p class="cm-course__description">Politics and Policy of Critical Minerals is our four-week online Expert Capsule Course for professionals, students, and others who want to understand how geology, geopolitics, markets, technology, and state power shape mineral supply chains. Through live webinars, real-world case studies, expert guest lectures, and discussions, the course examines China’s dominance, the difficulty of reducing dependence on China, competing national strategies, India’s policy choices, and the limits of substitution and recycling. The first edition brought together 65 students interested in the geopolitical questions shaping this decade.</p>
+        <p class="cm-course__availability">The next edition is expected in September 2027. <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5-jqC3dqh3DhO7NTNKL95n9_MIs1Z1KzdM-AOaIsqhOYtjQ/viewform?ouid=115944996608306195102&amp;usp=sharing">Register your interest.</a></p>
         <a class="cm-primary-button" href="https://takshashila.org.in/pages/policy-school/ecc-critical-minerals.html">View Course Details</a>
       </div>
     </section>
@@ -174,17 +175,13 @@ title-block-style: none
       </div>
       <div class="cm-carousel" data-carousel>
         <div class="cm-card-track" data-carousel-track>
-          <a class="cm-media-card" href="https://www.youtube.com/watch?v=hOPzsR3hiR8">
-            <span class="cm-card-kicker">VIDEO · THE HINDU · 24 FEB 2026</span>
-            <h3>India’s Rare Earth Strategy: Digging Beneath the Budget Announcements</h3>
-            <p>Shobhankita Reddy on what India’s rare earth corridors and magnet manufacturing plans can and cannot solve.</p>
-            <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
-          </a>
-          <a class="cm-media-card" href="https://podcasts.apple.com/in/podcast/india-should-double-down-on-rare-earth-recycling/id1166552728?i=1000750247855">
-            <span class="cm-card-kicker">PODCAST · ALL THINGS POLICY · 18 FEB 2026</span>
-            <h3>India Should Double Down on Rare Earth Recycling</h3>
-            <p>Shobhankita Reddy and Tannmay Kumarr Baid discuss the practical steps behind a domestic rare earth recycling industry.</p>
-            <span class="cm-card-cta">Listen <span aria-hidden="true">→</span></span>
+          <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=hOPzsR3hiR8">
+            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/hOPzsR3hiR8/hqdefault.jpg" alt="Video thumbnail for India’s Rare Earth Strategy: Digging Beneath the Budget Announcements">
+            <div class="cm-media-card__body">
+              <span class="cm-card-kicker">VIDEO · THE HINDU · 24 FEB 2026</span>
+              <h3>India’s Rare Earth Strategy: Digging Beneath the Budget Announcements</h3>
+              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+            </div>
           </a>
           <a class="cm-media-card" href="https://podcasts.apple.com/us/podcast/the-geopolitics-of-rare-earths/id1166552728?i=1000736534689">
             <span class="cm-card-kicker">PODCAST · ALL THINGS POLICY · 13 NOV 2025</span>
@@ -198,11 +195,13 @@ title-block-style: none
             <p>Shruti Rajagopalan speaks with Pranay Kotasthane about China’s dominance, India’s capabilities, recycling, and geopolitics.</p>
             <span class="cm-card-cta">Listen <span aria-hidden="true">→</span></span>
           </a>
-          <a class="cm-media-card" href="https://stratnewsglobal.com/the-gist/worlds-manufacturing-capacity-has-hollowed-and-gone-to-china/">
-            <span class="cm-card-kicker">VIDEO · STRATNEWS GLOBAL · 26 JUN 2026</span>
-            <h3>World’s Manufacturing Capacity Has Hollowed and Gone to China</h3>
-            <p>Shobhankita Reddy on the India US critical minerals framework, the Quad initiative, and why capital support matters.</p>
-            <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+          <a class="cm-media-card cm-media-card--video" href="https://stratnewsglobal.com/the-gist/worlds-manufacturing-capacity-has-hollowed-and-gone-to-china/">
+            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/RKnSx2mZi4A/hqdefault.jpg" alt="Video thumbnail for World’s Manufacturing Capacity Has Hollowed and Gone to China">
+            <div class="cm-media-card__body">
+              <span class="cm-card-kicker">VIDEO · STRATNEWS GLOBAL · 26 JUN 2026</span>
+              <h3>World’s Manufacturing Capacity Has Hollowed and Gone to China</h3>
+              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+            </div>
           </a>
         </div>
         <div class="cm-carousel-controls" aria-label="Video and podcast carousel controls">
@@ -361,6 +360,13 @@ title-block-style: none
           <div>
             <h3>Tannmay Kumarr Baid</h3>
             <p>Junior Adjunct Scholar for the High-Tech Geopolitics Programme</p>
+          </div>
+        </a>
+        <a class="cm-team-card" href="https://takshashila.org.in/content/team/narayan-ramachandran.html">
+          <img src="assets/team/Narayan_Ramachandran.png" alt="Narayan Ramachandran">
+          <div>
+            <h3>Narayan Ramachandran</h3>
+            <p>Co-Founder</p>
           </div>
         </a>
       </div>

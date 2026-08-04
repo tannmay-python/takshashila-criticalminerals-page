@@ -11,6 +11,7 @@ const expectedTeam = [
   "Pranay Kotasthane",
   "Shobhankita Reddy",
   "Tannmay Kumarr Baid",
+  "Narayan Ramachandran",
 ];
 
 const expectedPositionText = [
@@ -47,9 +48,15 @@ assert.equal(
 );
 
 assert.equal(
-  (source.match(/class="cm-media-card"/g) ?? []).length,
-  5,
-  "Expected five video and podcast cards",
+  (source.match(/class="cm-media-card(?:\s|\")/g) ?? []).length,
+  4,
+  "Expected four selected video and podcast cards",
+);
+
+assert.equal(
+  (source.match(/class="cm-media-card__thumb"/g) ?? []).length,
+  2,
+  "Expected thumbnails for both video cards",
 );
 
 assert.equal(
@@ -81,6 +88,18 @@ assert(
     source.includes("India’s Rare Earth Strategy: Digging Beneath the Budget Announcements") &&
     source.includes("The Geopolitics of Rare Earths"),
   "Missing video and podcast section",
+);
+
+assert(
+  !source.includes("podcasts.apple.com/in/podcast/india-should-double-down-on-rare-earth-recycling"),
+  "The unselected recycling podcast should not be featured",
+);
+
+assert(
+  source.includes("Critical Minerals Desk") &&
+    source.includes("The next edition is expected in September 2027") &&
+    source.includes("Register your interest."),
+  "Missing updated desk title or course availability details",
 );
 
 assert(
