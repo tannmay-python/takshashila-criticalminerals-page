@@ -1,6 +1,6 @@
 ---
 title: "Critical Minerals Desk"
-description: "Takshashila's Critical Minerals Desk studies the policy, economics, and geopolitics of India's mineral supply chains."
+description: "Takshashila's Critical Minerals Desk focuses on policy and geopolitical questions around critical minerals and rare earths."
 page-layout: full
 title-block-style: none
 ---
@@ -10,7 +10,7 @@ title-block-style: none
   <section class="cm-hero" aria-labelledby="page-title">
     <div class="cm-container cm-hero__inner">
       <h1 id="page-title">Critical Minerals Desk</h1>
-      <p>The Critical Minerals Desk at the Takshashila Institution studies the policy, economics, and geopolitics of the minerals used in energy systems, advanced manufacturing, and strategic technologies. We take a mineral-by-mineral view of India’s supply chains: what should be explored and processed domestically, where trade and partnerships make sense, and how recycling can reduce import dependence. We weigh the cost of building capacity in India against the risks of relying on other countries, and identify where policy can make a difference.</p>
+      <p>Countries are seeking access to critical minerals used in energy systems, advanced manufacturing, and defence technologies. Mining and processing capacity remains concentrated in a few countries. The Critical Minerals Desk at the Takshashila Institution focuses on the policy and geopolitical questions around critical minerals and rare earths, and brings together Takshashila’s research, writing, and public discussions on India’s critical minerals sector.</p>
     </div>
   </section>
 
