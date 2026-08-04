@@ -49,14 +49,14 @@ title-block-style: none
       </div>
       <div class="cm-carousel" data-carousel>
         <div class="cm-card-track" data-carousel-track>
-          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html">
-            <h3>India Should Double Down on Rare Earth Recycling</h3>
-            <p>Tannmay Kumarr Baid, Pranay Kotasthane, Narayan Ramachandran</p>
-            <span>Read more <span aria-hidden="true">→</span></span>
-          </a>
           <a class="cm-content-card" href="https://takshashila.org.in/content/publications/China-Ga-Ge-Export-Restrictions-29032026.html">
             <h3>Sand Slipping Through Fingers</h3>
             <p>Amit Kumar, Pranay Kotasthane</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20260123-India-Should-Double-Down-On-Rare-Earth-Recycling.html">
+            <h3>India Should Double Down on Rare Earth Recycling</h3>
+            <p>Tannmay Kumarr Baid, Pranay Kotasthane, Narayan Ramachandran</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
           <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20241217-assessing-nature-of-indias-critical-minerals.html">
@@ -69,14 +69,14 @@ title-block-style: none
             <p>Shrikrishna Upadhyaya, Pranay Kotasthane</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
-          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20201224-a-rare-earths-strategy-for-india.html">
-            <h3>A Rare Earths Strategy for India</h3>
-            <p>Narayan Ramachandran, Aditya Pareek, Anirudh Kanisetti</p>
-            <span>Read more <span aria-hidden="true">→</span></span>
-          </a>
           <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20210228-a-rare-earths-strategy-for-india.html">
             <h3>Blue Paper: A Rare Earths Strategy for India</h3>
             <p>Anirudh Kanisetti</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/publications/20201224-a-rare-earths-strategy-for-india.html">
+            <h3>A Rare Earths Strategy for India</h3>
+            <p>Narayan Ramachandran, Aditya Pareek, Anirudh Kanisetti</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
         </div>
@@ -98,24 +98,24 @@ title-block-style: none
             <p>Shobhankita Reddy, Pranay Kotasthane</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
-          <a class="cm-content-card" href="https://www.deccanherald.com/opinion/india-eu-forge-mineral-diplomacy-3895403">
-            <h3>India, EU forge mineral diplomacy</h3>
-            <p>Shobhankita Reddy</p>
-            <span>Read more <span aria-hidden="true">→</span></span>
-          </a>
-          <a class="cm-content-card" href="https://www.thehindu.com/business/Industry/indias-reliance-on-china-for-critical-minerals-explained/article69020390.ece">
-            <h3>India’s reliance on China for critical minerals</h3>
-            <p>Rakshith Shetty</p>
-            <span>Read more <span aria-hidden="true">→</span></span>
-          </a>
           <a class="cm-content-card" href="https://www.moneycontrol.com/news/opinion/what-the-budget-reveals-about-india-s-critical-minerals-goals-13825383.html">
             <h3>What the Budget reveals about India’s critical minerals goals</h3>
             <p>Shobhankita Reddy, Tannmay Kumarr Baid</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
+          <a class="cm-content-card" href="https://www.deccanherald.com/opinion/india-eu-forge-mineral-diplomacy-3895403">
+            <h3>India, EU forge mineral diplomacy</h3>
+            <p>Shobhankita Reddy</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
           <a class="cm-content-card" href="https://www.newindianexpress.com/nation/2026/feb/04/why-indias-vast-monazite-resources-should-be-opened-to-private-sector-mining">
             <h3>Why India’s vast monazite resources should be opened to private-sector mining</h3>
             <p>Shobhankita Reddy</p>
+            <span>Read more <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-content-card" href="https://www.hindustantimes.com/opinion/rare-earths-sector-can-do-with-recycling-thrust-101769970010181.html">
+            <h3>Rare earths sector can do with recycling thrust</h3>
+            <p>Pranay Kotasthane, Tannmay Kumarr Baid</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
           <a class="cm-content-card" href="https://indianexpress.com/article/opinion/columns/critical-minerals-ministerial-india-should-list-four-priorities-10502901/">
@@ -128,9 +128,9 @@ title-block-style: none
             <p>Shobhankita Reddy, Pranay Kotasthane</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
-          <a class="cm-content-card" href="https://www.hindustantimes.com/opinion/rare-earths-sector-can-do-with-recycling-thrust-101769970010181.html">
-            <h3>Rare earths sector can do with recycling thrust</h3>
-            <p>Pranay Kotasthane, Tannmay Kumarr Baid</p>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/blogs/20260115-Geopolitics-Critical-Minerals.html">
+            <h3>The Geopolitics of Critical Minerals</h3>
+            <p>Pranay Kotasthane</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
           <a class="cm-content-card" href="https://www.hindustantimes.com/opinion/rare-earths-in-india-bridging-the-gaps-to-ensure-sufficiency-101764605571306.html">
@@ -138,13 +138,13 @@ title-block-style: none
             <p>Tannmay Kumarr Baid, Pranay Kotasthane</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
-          <a class="cm-content-card" href="https://timesofindia.indiatimes.com/blogs/toi-edit-page/beijings-rare-earth-playbook-is-tired-its-time-india-wrote-its-own/">
-            <h3>Beijing’s rare earth playbook is tired. It’s time India wrote its own</h3>
-            <p>Tannmay Kumarr Baid, Pranay Kotasthane</p>
+          <a class="cm-content-card" href="https://takshashila.org.in/content/blogs/20251020-seven-points-worth-thinking-about-chinas-gameplay-on-rare-earths.html">
+            <h3>Seven Points Worth Thinking About China’s Gameplay on Rare Earths</h3>
+            <p>Pranay Kotasthane</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
-          <a class="cm-content-card" href="https://timesofindia.indiatimes.com/blogs/toi-edit-page/chinas-rare-earth-controls-are-not-the-masterstroke-they-seem/">
-            <h3>China’s rare-earth controls are not the masterstroke they seem</h3>
+          <a class="cm-content-card" href="https://timesofindia.indiatimes.com/blogs/toi-edit-page/beijings-rare-earth-playbook-is-tired-its-time-india-wrote-its-own/">
+            <h3>Beijing’s rare earth playbook is tired. It’s time India wrote its own</h3>
             <p>Tannmay Kumarr Baid, Pranay Kotasthane</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
@@ -153,14 +153,14 @@ title-block-style: none
             <p>Tannmay Kumarr Baid</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
-          <a class="cm-content-card" href="https://takshashila.org.in/content/blogs/20251020-seven-points-worth-thinking-about-chinas-gameplay-on-rare-earths.html">
-            <h3>Seven Points Worth Thinking About China’s Gameplay on Rare Earths</h3>
-            <p>Pranay Kotasthane</p>
+          <a class="cm-content-card" href="https://timesofindia.indiatimes.com/blogs/toi-edit-page/chinas-rare-earth-controls-are-not-the-masterstroke-they-seem/">
+            <h3>China’s rare-earth controls are not the masterstroke they seem</h3>
+            <p>Tannmay Kumarr Baid, Pranay Kotasthane</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
-          <a class="cm-content-card" href="https://takshashila.org.in/content/blogs/20260115-Geopolitics-Critical-Minerals.html">
-            <h3>The Geopolitics of Critical Minerals</h3>
-            <p>Pranay Kotasthane</p>
+          <a class="cm-content-card" href="https://www.thehindu.com/business/Industry/indias-reliance-on-china-for-critical-minerals-explained/article69020390.ece">
+            <h3>India’s reliance on China for critical minerals</h3>
+            <p>Rakshith Shetty</p>
             <span>Read more <span aria-hidden="true">→</span></span>
           </a>
         </div>
@@ -230,10 +230,10 @@ title-block-style: none
       </div>
       <div class="cm-carousel" data-carousel>
         <div class="cm-card-track" data-carousel-track>
-          <a class="cm-event-card" href="https://legion.takshashila.org.in/events/critical-minerals-strategic-importance-and-challenges">
-            <span class="cm-card-kicker">04 MAR 2025 · BENGALURU</span>
-            <h3>Critical Minerals: Strategic Importance and Challenges</h3>
-            <p>A roundtable with Dr Thomas Lograsso, Takshashila researchers, and Christ University’s Center for East Asian Studies.</p>
+          <a class="cm-event-card" href="https://takshashila.org.in/content/events/TNAS-Conference-.html">
+            <span class="cm-card-kicker">27 FEB TO 01 MAR 2026 · BENGALURU</span>
+            <h3>TNAS Conference 2026: Emerging Technologies and Supply Chains</h3>
+            <p>The NAST track examined India’s supply-chain vulnerabilities, including critical minerals for solar energy and clean-energy infrastructure.</p>
             <span class="cm-card-cta">Event details <span aria-hidden="true">→</span></span>
           </a>
           <a class="cm-event-card" href="https://takshashila.org.in/content/blogs/20260115-Geopolitics-Critical-Minerals.html">
@@ -242,10 +242,10 @@ title-block-style: none
             <p>At this conference, Pranay Kotasthane spoke on the geopolitics of critical minerals alongside experts from government, industry, and academia.</p>
             <span class="cm-card-cta">Read the takeaways <span aria-hidden="true">→</span></span>
           </a>
-          <a class="cm-event-card" href="https://takshashila.org.in/content/events/TNAS-Conference-.html">
-            <span class="cm-card-kicker">27 FEB TO 01 MAR 2026 · BENGALURU</span>
-            <h3>TNAS Conference 2026: Emerging Technologies and Supply Chains</h3>
-            <p>The NAST track examined India’s supply-chain vulnerabilities, including critical minerals for solar energy and clean-energy infrastructure.</p>
+          <a class="cm-event-card" href="https://legion.takshashila.org.in/events/critical-minerals-strategic-importance-and-challenges">
+            <span class="cm-card-kicker">04 MAR 2025 · BENGALURU</span>
+            <h3>Critical Minerals: Strategic Importance and Challenges</h3>
+            <p>A roundtable with Dr Thomas Lograsso, Takshashila researchers, and Christ University’s Center for East Asian Studies.</p>
             <span class="cm-card-cta">Event details <span aria-hidden="true">→</span></span>
           </a>
         </div>
