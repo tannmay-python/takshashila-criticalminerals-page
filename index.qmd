@@ -191,14 +191,6 @@ title-block-style: none
               <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
             </div>
           </a>
-          <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=8Fs8QXs7fo8">
-            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/8Fs8QXs7fo8/hqdefault.jpg" alt="Video thumbnail for An Explainer on Critical Minerals">
-            <div class="cm-media-card__body">
-              <span class="cm-card-kicker">VIDEO · ALL THINGS POLICY · 31 JUL 2025</span>
-              <h3>An Explainer on Critical Minerals</h3>
-              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
-            </div>
-          </a>
           <a class="cm-media-card cm-media-card--video" href="https://stratnewsglobal.com/the-gist/worlds-manufacturing-capacity-has-hollowed-and-gone-to-china/">
             <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/RKnSx2mZi4A/hqdefault.jpg" alt="Video thumbnail for World’s Manufacturing Capacity Has Hollowed and Gone to China">
             <div class="cm-media-card__body">
