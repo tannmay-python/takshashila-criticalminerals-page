@@ -11,7 +11,7 @@ title-block-style: none
     <div class="cm-container cm-hero__inner">
       <h1 id="page-title">Critical Minerals Desk</h1>
       <div class="cm-hero__copy">
-        <p>Critical mineral supply chains have become an arena of geopolitical and geoeconomic contestation. Mining and processing capacity remains concentrated in a few countries, even as demand grows for materials used in energy systems, advanced manufacturing, and strategic technologies.</p>
+        <p>Critical mineral supply chains have become an arena of geopolitical and geoeconomic contestation. Mining and processing capacity remains concentrated in a few countries, especially China, even as demand grows for materials used in energy systems, advanced manufacturing, and strategic technologies.</p>
         <p>The Critical Minerals Desk at the Takshashila Institution studies the policy and geopolitical issues around these supply chains from an Indian perspective, to help build a more resilient critical mineral supply for India.</p>
       </div>
     </div>
@@ -177,27 +177,11 @@ title-block-style: none
       </div>
       <div class="cm-carousel" data-carousel>
         <div class="cm-card-track" data-carousel-track>
-          <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=hOPzsR3hiR8">
-            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/hOPzsR3hiR8/hqdefault.jpg" alt="Video thumbnail for India’s Rare Earth Strategy: Digging Beneath the Budget Announcements">
-            <div class="cm-media-card__body">
-              <span class="cm-card-kicker">VIDEO · THE HINDU · 24 FEB 2026</span>
-              <h3>India’s Rare Earth Strategy: Digging Beneath the Budget Announcements</h3>
-              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
-            </div>
-          </a>
           <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=SS2ZqnLrcN4">
             <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/SS2ZqnLrcN4/hqdefault.jpg" alt="Video thumbnail for Are All Minerals Critical In The Same Way?">
             <div class="cm-media-card__body">
               <span class="cm-card-kicker">VIDEO · ALL THINGS POLICY · 26 JUN 2026</span>
               <h3>Are All Minerals Critical In The Same Way?</h3>
-              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
-            </div>
-          </a>
-          <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=cQglpOtGpgc">
-            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/cQglpOtGpgc/hqdefault.jpg" alt="Video thumbnail for The Geopolitics of Rare Earths">
-            <div class="cm-media-card__body">
-              <span class="cm-card-kicker">VIDEO · ALL THINGS POLICY · 13 NOV 2025</span>
-              <h3>The Geopolitics of Rare Earths</h3>
               <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
             </div>
           </a>
@@ -214,6 +198,22 @@ title-block-style: none
             <h3>Pranay Kotasthane on the Political Economy of Rare Earths and Critical Minerals</h3>
             <p>Shruti Rajagopalan speaks with Pranay Kotasthane about rare earths, China’s dominance, India’s capabilities, and recycling.</p>
             <span class="cm-card-cta">Listen <span aria-hidden="true">→</span></span>
+          </a>
+          <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=hOPzsR3hiR8">
+            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/hOPzsR3hiR8/hqdefault.jpg" alt="Video thumbnail for India’s Rare Earth Strategy: Digging Beneath the Budget Announcements">
+            <div class="cm-media-card__body">
+              <span class="cm-card-kicker">VIDEO · THE HINDU · 24 FEB 2026</span>
+              <h3>India’s Rare Earth Strategy: Digging Beneath the Budget Announcements</h3>
+              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+            </div>
+          </a>
+          <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=cQglpOtGpgc">
+            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/cQglpOtGpgc/hqdefault.jpg" alt="Video thumbnail for The Geopolitics of Rare Earths">
+            <div class="cm-media-card__body">
+              <span class="cm-card-kicker">VIDEO · ALL THINGS POLICY · 13 NOV 2025</span>
+              <h3>The Geopolitics of Rare Earths</h3>
+              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+            </div>
           </a>
         </div>
         <div class="cm-carousel-controls" aria-label="Video and podcast carousel controls">
