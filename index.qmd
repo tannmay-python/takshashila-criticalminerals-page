@@ -170,7 +170,7 @@ title-block-style: none
 
     <section class="cm-section cm-container" id="media">
       <div class="cm-section-heading cm-section-heading--link">
-        <h2>Video and Podcasts</h2>
+        <h2>Videos</h2>
         <a href="https://legion.takshashila.org.in/all-things-policy">All Things Policy</a>
       </div>
       <div class="cm-carousel" data-carousel>
@@ -183,17 +183,21 @@ title-block-style: none
               <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
             </div>
           </a>
-          <a class="cm-media-card" href="https://podcasts.apple.com/us/podcast/the-geopolitics-of-rare-earths/id1166552728?i=1000736534689">
-            <span class="cm-card-kicker">PODCAST · ALL THINGS POLICY · 13 NOV 2025</span>
-            <h3>The Geopolitics of Rare Earths</h3>
-            <p>Manoj Kewalramani and Pranay Kotasthane on China’s leverage, strategic competition, and the future of rare earth supply chains.</p>
-            <span class="cm-card-cta">Listen <span aria-hidden="true">→</span></span>
+          <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=SS2ZqnLrcN4">
+            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/SS2ZqnLrcN4/hqdefault.jpg" alt="Video thumbnail for Are All Minerals Critical In The Same Way?">
+            <div class="cm-media-card__body">
+              <span class="cm-card-kicker">VIDEO · ALL THINGS POLICY · 26 JUN 2026</span>
+              <h3>Are All Minerals Critical In The Same Way?</h3>
+              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+            </div>
           </a>
-          <a class="cm-media-card" href="https://www.mercatus.org/ideasofindia/pranay-kotasthane-political-economy-rare-earths-and-critical-minerals">
-            <span class="cm-card-kicker">PODCAST · IDEAS OF INDIA · 26 FEB 2026</span>
-            <h3>Pranay Kotasthane on the Political Economy of Rare Earths and Critical Minerals</h3>
-            <p>Shruti Rajagopalan speaks with Pranay Kotasthane about China’s dominance, India’s capabilities, recycling, and geopolitics.</p>
-            <span class="cm-card-cta">Listen <span aria-hidden="true">→</span></span>
+          <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=8Fs8QXs7fo8">
+            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/8Fs8QXs7fo8/hqdefault.jpg" alt="Video thumbnail for An Explainer on Critical Minerals">
+            <div class="cm-media-card__body">
+              <span class="cm-card-kicker">VIDEO · ALL THINGS POLICY · 31 JUL 2025</span>
+              <h3>An Explainer on Critical Minerals</h3>
+              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+            </div>
           </a>
           <a class="cm-media-card cm-media-card--video" href="https://stratnewsglobal.com/the-gist/worlds-manufacturing-capacity-has-hollowed-and-gone-to-china/">
             <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/RKnSx2mZi4A/hqdefault.jpg" alt="Video thumbnail for World’s Manufacturing Capacity Has Hollowed and Gone to China">
@@ -204,9 +208,9 @@ title-block-style: none
             </div>
           </a>
         </div>
-        <div class="cm-carousel-controls" aria-label="Video and podcast carousel controls">
-          <button type="button" data-carousel-prev aria-label="Previous video or podcast">&lt;</button>
-          <button type="button" data-carousel-next aria-label="Next video or podcast">&gt;</button>
+        <div class="cm-carousel-controls" aria-label="Video carousel controls">
+          <button type="button" data-carousel-prev aria-label="Previous video">&lt;</button>
+          <button type="button" data-carousel-next aria-label="Next video">&gt;</button>
         </div>
       </div>
     </section>

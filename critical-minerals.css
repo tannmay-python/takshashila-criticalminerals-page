@@ -1028,6 +1028,10 @@ body main.content .cm-section h2 {
     padding: 0;
   }
 
+  .cm-media-card.cm-media-card--video {
+    height: clamp(220px, 56vw, 250px);
+  }
+
   .cm-media-card__thumb {
     height: clamp(72px, 25vw, 112px);
     flex-basis: clamp(72px, 25vw, 112px);
