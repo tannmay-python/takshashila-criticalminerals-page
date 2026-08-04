@@ -111,10 +111,16 @@ assert(
 );
 
 assert(
-  source.includes("Critical Minerals Desk") &&
+  source.includes("MineralPolitik Project") &&
     source.includes("The next edition is expected in September 2027") &&
     source.includes("Register your interest."),
-  "Missing updated desk title or course availability details",
+  "Missing updated project title or course availability details",
+);
+
+assert(
+  source.indexOf('id="positions"') > source.indexOf('id="course"') &&
+    source.indexOf('id="positions"') < source.indexOf('id="research"'),
+  "Key positions must appear immediately after the course section",
 );
 
 assert(

@@ -1,6 +1,6 @@
 ---
-title: "Critical Minerals Desk"
-description: "Takshashila's Critical Minerals Desk studies the policy and geopolitical issues that shape India's mineral resilience."
+title: "MineralPolitik Project"
+description: "Takshashila's MineralPolitik Project studies the policy and geopolitical issues that shape India's mineral resilience."
 page-layout: full
 title-block-style: none
 ---
@@ -9,10 +9,10 @@ title-block-style: none
 <div class="cm-page">
   <section class="cm-hero" aria-labelledby="page-title">
     <div class="cm-container cm-hero__inner">
-      <h1 id="page-title">Critical Minerals Desk</h1>
+      <h1 id="page-title">MineralPolitik Project</h1>
       <div class="cm-hero__copy">
-        <p>Critical mineral supply chains have become an arena of geopolitical and geoeconomic contestation. Mining and processing capacity remains concentrated in a few countries, especially China, even as demand grows for materials used in energy systems, advanced manufacturing, and strategic technologies.</p>
-        <p>The Critical Minerals Desk at the Takshashila Institution studies the policy and geopolitical issues around these supply chains from an Indian perspective, to help build a more resilient critical mineral supply for India.</p>
+        <p>Critical mineral supply chains have become an arena of geopolitical and geoeconomic contestation. Mining and processing capacity remains concentrated in a few countries, especially China, even as demand for materials used in energy systems, advanced manufacturing, and strategic technologies grows.</p>
+        <p>The MineralPolitik Project at the Takshashila Institution studies the policy and geopolitical issues around these supply chains from an Indian perspective, to help build a more resilient critical mineral supply for India.</p>
       </div>
     </div>
   </section>
@@ -22,7 +22,7 @@ title-block-style: none
       <div class="cm-container cm-featured__grid">
         <div class="cm-featured__context">
           <h2 id="featured-research-title">Featured Research</h2>
-          <p>Interactive work from the Critical Minerals Desk.</p>
+          <p>Interactive work from the MineralPolitik Project.</p>
         </div>
         <article class="cm-featured__panel">
           <h3>India Critical Minerals Dashboard</h3>
@@ -40,6 +40,97 @@ title-block-style: none
         <p class="cm-course__description">Politics and Policy of Critical Minerals is our four-week online Expert Capsule Course for professionals, students, and others who want to understand how geology, geopolitics, markets, technology, and state power shape mineral supply chains. Through live webinars, real-world case studies, expert guest lectures, and discussions, the course examines China’s dominance, the difficulty of reducing dependence on China, competing national strategies, India’s policy choices, and the limits of substitution and recycling. The first edition brought together 65 students interested in the geopolitical questions shaping this decade.</p>
         <p class="cm-course__availability">The next edition is expected in September 2027. <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5-jqC3dqh3DhO7NTNKL95n9_MIs1Z1KzdM-AOaIsqhOYtjQ/viewform?ouid=115944996608306195102&amp;usp=sharing">Register your interest.</a></p>
         <a class="cm-primary-button" href="https://takshashila.org.in/pages/policy-school/ecc-critical-minerals.html">View Course Details</a>
+      </div>
+    </section>
+
+    <section class="cm-section cm-positions" id="positions">
+      <div class="cm-container">
+        <h2>Our Key Positions</h2>
+        <p class="cm-positions-intro">Policy recommendations for India’s critical minerals sector.</p>
+
+        <div class="cm-position-list">
+          <details class="cm-position" open>
+            <summary>
+              <span>01</span>
+              <strong>Exploration and block auctions</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>Critical and strategic mineral block auctions repeatedly attract few qualified bidders and are eventually annulled. Nine critical-mineral block auctions were cancelled after seven rounds of attempted sale.</p>
+              <h3>Theory of Change</h3>
+              <p>Exploration is the bottleneck. Lowering its cost should make extraction projects more attractive.</p>
+              <h3>Solutions</h3>
+              <p>The Exploration License regime should borrow from the way the government supports semiconductor fabs: provide capital support upfront, on a pari passu basis. Both projects have long gestation periods and high upfront costs. Fab companies do not have to wait for production before receiving government support; exploration license holders should receive similar treatment.</p>
+              <p>Replace the progressively competitive two-stage bidding process with a single sealed bid to reduce overbidding.</p>
+              <p>For strategically important blocks, consider first-come, first-served allocation to encourage private participation.</p>
+            </div>
+          </details>
+
+          <details class="cm-position">
+            <summary>
+              <span>02</span>
+              <strong>Rare earth recycling</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>India is the world’s third-largest e-waste generator, yet it has no formal domestic rare-earth recycling industry. The barriers are practical: the market is weak, the economics are difficult, and current policy does not create enough incentive.</p>
+              <h3>Theory of Change</h3>
+              <p>Recycling and urban mining are easier to scale than new mining and can help absorb supply shocks. India’s e-waste stream already contains enough material to supply around 1,300 tonnes a year. As EVs, wind turbines and appliances reach end of life, that figure could rise above 6,000 tonnes over the next decade.</p>
+              <h3>Solutions</h3>
+              <p>Amend the E-Waste Management Rules and Extended Producer Responsibility (EPR) framework to account for strategic value. Treat REE-bearing components as a separate, high-value category for EPR certificates, using a strategic multiplier. One kilogram of NdFeB magnet scrap should earn more credits than one kilogram of steel, so the credit market reflects the difference.</p>
+              <p>Create a green channel for selective, licensed imports of processed scrap such as sorted magnet scrap and battery black mass.</p>
+            </div>
+          </details>
+
+          <details class="cm-position">
+            <summary>
+              <span>03</span>
+              <strong>Offtake guarantees</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>India has no mechanism for long-term offtake guarantees. The ₹1,500 crore recycling scheme illustrates the problem: a ₹50 crore cap per entity cannot de-risk a plant whose capital cost can run into thousands of crores.</p>
+              <h3>Theory of Change</h3>
+              <p>Long-term offtake contracts can protect projects if China later floods the market and drives prices down.</p>
+              <h3>Solution</h3>
+              <p>India needs a domestic-facing KABIL, or IN-KABIL, with a mandate to put capital to work where markets do not. It could take minority stakes in early projects, provide first-loss guarantees on debt, and anchor long-term offtake contracts. Together, these tools would give investors a clearer path to revenue.</p>
+            </div>
+          </details>
+
+          <details class="cm-position">
+            <summary>
+              <span>04</span>
+              <strong>A sharper critical minerals list</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>India’s list has 51 minerals, about two-thirds of all commercially mined minerals. A list this long makes it harder to prioritise policy action.</p>
+              <h3>Theory of Change</h3>
+              <p>Classify minerals by supply and demand conditions, then match each group to an appropriate policy response.</p>
+              <h3>Solution</h3>
+              <p>Some minerals do not require immediate intervention. Lanthanum and cerium are in structural oversupply globally, while Brazil has managed its dominant position in niobium without overexpanding supply. Heavy rare earths may be better handled through stockpiles and eventual substitution in motors. The strongest case for near-term state action is in high-volume base metals such as copper, cobalt, lithium and nickel, and in minerals such as graphite, where demand is rising and processing remains concentrated in China. Our dashboard provides a mineral-by-mineral view <a href="https://indiacriticalminerals.com/#overview">here</a>.</p>
+            </div>
+          </details>
+
+          <details class="cm-position">
+            <summary>
+              <span>05</span>
+              <strong>Private participation in monazite</strong>
+            </summary>
+            <div class="cm-position-body">
+              <h3>Problem</h3>
+              <p>India has large, accessible monazite reserves in beach sands. Because of its thorium content, monazite is a prescribed material under the SHANTI Act, so only Indian Rare Earth Limited (IREL) can handle it. The restriction also keeps private companies out of a mechanically concentrated ore that contains other useful heavy minerals.</p>
+              <h3>Theory of Change</h3>
+              <p>Private access to monazite sands would help India build LREE capacity more quickly.</p>
+              <h3>Solution</h3>
+              <p>Treat monazite as a dual-use ore and replace the blanket ban with a licensing and offtake regime for private mining. A new Department of Rare Earths could oversee it.</p>
+              <p>Private miners would extract the beach-sand minerals; IREL would buy separated monazite at a guaranteed price floor.</p>
+              <p>A guaranteed buyer would encourage legal supply and reduce black-market leakage. IREL would retain control over the radioactive thorium, while licensed private players, including foreign partners, could process the residual REOs.</p>
+              <p>Start with pilot zones with strict environmental oversight, short-term permits and clear exit clauses.</p>
+            </div>
+          </details>
+        </div>
+
       </div>
     </section>
 
@@ -256,96 +347,6 @@ title-block-style: none
       </div>
     </section>
 
-    <section class="cm-section cm-positions" id="positions">
-      <div class="cm-container">
-        <h2>Our Key Positions</h2>
-        <p class="cm-positions-intro">Policy recommendations for India’s critical minerals sector.</p>
-
-        <div class="cm-position-list">
-          <details class="cm-position" open>
-            <summary>
-              <span>01</span>
-              <strong>Exploration and block auctions</strong>
-            </summary>
-            <div class="cm-position-body">
-              <h3>Problem</h3>
-              <p>Critical and strategic mineral block auctions repeatedly attract few qualified bidders and are eventually annulled. Nine critical-mineral block auctions were cancelled after seven rounds of attempted sale.</p>
-              <h3>Theory of Change</h3>
-              <p>Exploration is the bottleneck. Lowering its cost should make extraction projects more attractive.</p>
-              <h3>Solutions</h3>
-              <p>The Exploration License regime should borrow from the way the government supports semiconductor fabs: provide capital support upfront, on a pari passu basis. Both projects have long gestation periods and high upfront costs. Fab companies do not have to wait for production before receiving government support; exploration license holders should receive similar treatment.</p>
-              <p>Replace the progressively competitive two-stage bidding process with a single sealed bid to reduce overbidding.</p>
-              <p>For strategically important blocks, consider first-come, first-served allocation to encourage private participation.</p>
-            </div>
-          </details>
-
-          <details class="cm-position">
-            <summary>
-              <span>02</span>
-              <strong>Rare earth recycling</strong>
-            </summary>
-            <div class="cm-position-body">
-              <h3>Problem</h3>
-              <p>India is the world’s third-largest e-waste generator, yet it has no formal domestic rare-earth recycling industry. The barriers are practical: the market is weak, the economics are difficult, and current policy does not create enough incentive.</p>
-              <h3>Theory of Change</h3>
-              <p>Recycling and urban mining are easier to scale than new mining and can help absorb supply shocks. India’s e-waste stream already contains enough material to supply around 1,300 tonnes a year. As EVs, wind turbines and appliances reach end of life, that figure could rise above 6,000 tonnes over the next decade.</p>
-              <h3>Solutions</h3>
-              <p>Amend the E-Waste Management Rules and Extended Producer Responsibility (EPR) framework to account for strategic value. Treat REE-bearing components as a separate, high-value category for EPR certificates, using a strategic multiplier. One kilogram of NdFeB magnet scrap should earn more credits than one kilogram of steel, so the credit market reflects the difference.</p>
-              <p>Create a green channel for selective, licensed imports of processed scrap such as sorted magnet scrap and battery black mass.</p>
-            </div>
-          </details>
-
-          <details class="cm-position">
-            <summary>
-              <span>03</span>
-              <strong>Offtake guarantees</strong>
-            </summary>
-            <div class="cm-position-body">
-              <h3>Problem</h3>
-              <p>India has no mechanism for long-term offtake guarantees. The ₹1,500 crore recycling scheme illustrates the problem: a ₹50 crore cap per entity cannot de-risk a plant whose capital cost can run into thousands of crores.</p>
-              <h3>Theory of Change</h3>
-              <p>Long-term offtake contracts can protect projects if China later floods the market and drives prices down.</p>
-              <h3>Solution</h3>
-              <p>India needs a domestic-facing KABIL, or IN-KABIL, with a mandate to put capital to work where markets do not. It could take minority stakes in early projects, provide first-loss guarantees on debt, and anchor long-term offtake contracts. Together, these tools would give investors a clearer path to revenue.</p>
-            </div>
-          </details>
-
-          <details class="cm-position">
-            <summary>
-              <span>04</span>
-              <strong>A sharper critical minerals list</strong>
-            </summary>
-            <div class="cm-position-body">
-              <h3>Problem</h3>
-              <p>India’s list has 51 minerals, about two-thirds of all commercially mined minerals. A list this long makes it harder to prioritise policy action.</p>
-              <h3>Theory of Change</h3>
-              <p>Classify minerals by supply and demand conditions, then match each group to an appropriate policy response.</p>
-              <h3>Solution</h3>
-              <p>Some minerals do not require immediate intervention. Lanthanum and cerium are in structural oversupply globally, while Brazil has managed its dominant position in niobium without overexpanding supply. Heavy rare earths may be better handled through stockpiles and eventual substitution in motors. The strongest case for near-term state action is in high-volume base metals such as copper, cobalt, lithium and nickel, and in minerals such as graphite, where demand is rising and processing remains concentrated in China. Our dashboard provides a mineral-by-mineral view <a href="https://indiacriticalminerals.com/#overview">here</a>.</p>
-            </div>
-          </details>
-
-          <details class="cm-position">
-            <summary>
-              <span>05</span>
-              <strong>Private participation in monazite</strong>
-            </summary>
-            <div class="cm-position-body">
-              <h3>Problem</h3>
-              <p>India has large, accessible monazite reserves in beach sands. Because of its thorium content, monazite is a prescribed material under the SHANTI Act, so only Indian Rare Earth Limited (IREL) can handle it. The restriction also keeps private companies out of a mechanically concentrated ore that contains other useful heavy minerals.</p>
-              <h3>Theory of Change</h3>
-              <p>Private access to monazite sands would help India build LREE capacity more quickly.</p>
-              <h3>Solution</h3>
-              <p>Treat monazite as a dual-use ore and replace the blanket ban with a licensing and offtake regime for private mining. A new Department of Rare Earths could oversee it.</p>
-              <p>Private miners would extract the beach-sand minerals; IREL would buy separated monazite at a guaranteed price floor.</p>
-              <p>A guaranteed buyer would encourage legal supply and reduce black-market leakage. IREL would retain control over the radioactive thorium, while licensed private players, including foreign partners, could process the residual REOs.</p>
-              <p>Start with pilot zones with strict environmental oversight, short-term permits and clear exit clauses.</p>
-            </div>
-          </details>
-        </div>
-
-      </div>
-    </section>
 
     <section class="cm-section cm-container" id="team">
       <div class="cm-section-heading cm-section-heading--link">
