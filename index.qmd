@@ -12,7 +12,7 @@ title-block-style: none
       <h1 id="page-title">Critical Minerals Desk</h1>
       <div class="cm-hero__copy">
         <p>Critical mineral supply chains have become an arena of geopolitical and geoeconomic contestation. Mining and processing capacity remains concentrated in a few countries, even as demand grows for materials used in energy systems, advanced manufacturing, and strategic technologies.</p>
-        <p>The Critical Minerals Desk at the Takshashila Institution studies the policy and geopolitical issues around these supply chains from an Indian perspective. Its aim is to strengthen India’s mineral resilience.</p>
+        <p>The Critical Minerals Desk at the Takshashila Institution studies the policy and geopolitical issues around these supply chains from an Indian perspective, to help build a more resilient critical mineral supply for India.</p>
       </div>
     </div>
   </section>
