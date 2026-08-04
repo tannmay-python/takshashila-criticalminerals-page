@@ -1,6 +1,6 @@
 ---
 title: "Critical Minerals Desk"
-description: "Takshashila's Critical Minerals Desk focuses on policy and geopolitical questions around critical minerals and rare earths."
+description: "Takshashila's Critical Minerals Desk studies the policy and geopolitical issues that shape India's mineral resilience."
 page-layout: full
 title-block-style: none
 ---
@@ -10,7 +10,10 @@ title-block-style: none
   <section class="cm-hero" aria-labelledby="page-title">
     <div class="cm-container cm-hero__inner">
       <h1 id="page-title">Critical Minerals Desk</h1>
-      <p>Countries are seeking access to critical minerals used in energy systems, advanced manufacturing, and defence technologies. Mining and processing capacity remains concentrated in a few countries. The Critical Minerals Desk at the Takshashila Institution focuses on the policy and geopolitical questions around critical minerals and rare earths, and brings together Takshashila’s research, writing, and public discussions on India’s critical minerals sector.</p>
+      <div class="cm-hero__copy">
+        <p>Critical mineral supply chains have become an arena of geopolitical and geoeconomic contestation. Mining and processing capacity remains concentrated in a few countries, even as demand grows for materials used in energy systems, advanced manufacturing, and strategic technologies.</p>
+        <p>The Critical Minerals Desk at the Takshashila Institution studies the policy and geopolitical issues around these supply chains from an Indian perspective. Its aim is to strengthen India’s mineral resilience.</p>
+      </div>
     </div>
   </section>
 
@@ -169,9 +172,8 @@ title-block-style: none
     </section>
 
     <section class="cm-section cm-container" id="media">
-      <div class="cm-section-heading cm-section-heading--link">
-        <h2>Videos</h2>
-        <a href="https://legion.takshashila.org.in/all-things-policy">All Things Policy</a>
+      <div class="cm-section-heading">
+        <h2>Videos and podcasts</h2>
       </div>
       <div class="cm-carousel" data-carousel>
         <div class="cm-card-track" data-carousel-track>
@@ -191,6 +193,14 @@ title-block-style: none
               <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
             </div>
           </a>
+          <a class="cm-media-card cm-media-card--video" href="https://www.youtube.com/watch?v=cQglpOtGpgc">
+            <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/cQglpOtGpgc/hqdefault.jpg" alt="Video thumbnail for The Geopolitics of Rare Earths">
+            <div class="cm-media-card__body">
+              <span class="cm-card-kicker">VIDEO · ALL THINGS POLICY · 13 NOV 2025</span>
+              <h3>The Geopolitics of Rare Earths</h3>
+              <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
+            </div>
+          </a>
           <a class="cm-media-card cm-media-card--video" href="https://stratnewsglobal.com/the-gist/worlds-manufacturing-capacity-has-hollowed-and-gone-to-china/">
             <img class="cm-media-card__thumb" src="https://i.ytimg.com/vi/RKnSx2mZi4A/hqdefault.jpg" alt="Video thumbnail for World’s Manufacturing Capacity Has Hollowed and Gone to China">
             <div class="cm-media-card__body">
@@ -199,10 +209,16 @@ title-block-style: none
               <span class="cm-card-cta">Watch <span aria-hidden="true">→</span></span>
             </div>
           </a>
+          <a class="cm-media-card" href="https://www.mercatus.org/ideasofindia/pranay-kotasthane-political-economy-rare-earths-and-critical-minerals">
+            <span class="cm-card-kicker">PODCAST · IDEAS OF INDIA · 26 FEB 2026</span>
+            <h3>Pranay Kotasthane on the Political Economy of Rare Earths and Critical Minerals</h3>
+            <p>Shruti Rajagopalan speaks with Pranay Kotasthane about rare earths, China’s dominance, India’s capabilities, and recycling.</p>
+            <span class="cm-card-cta">Listen <span aria-hidden="true">→</span></span>
+          </a>
         </div>
-        <div class="cm-carousel-controls" aria-label="Video carousel controls">
-          <button type="button" data-carousel-prev aria-label="Previous video">&lt;</button>
-          <button type="button" data-carousel-next aria-label="Next video">&gt;</button>
+        <div class="cm-carousel-controls" aria-label="Video and podcast carousel controls">
+          <button type="button" data-carousel-prev aria-label="Previous video or podcast">&lt;</button>
+          <button type="button" data-carousel-next aria-label="Next video or podcast">&gt;</button>
         </div>
       </div>
     </section>

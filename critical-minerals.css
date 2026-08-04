@@ -174,14 +174,22 @@ body main.content {
   text-wrap: balance;
 }
 
-.cm-hero p {
+.cm-hero__copy {
   max-width: 780px;
-  margin: 36px 0 0;
+  margin-top: 36px;
+}
+
+.cm-hero__copy p {
+  margin: 0;
   color: var(--tk-muted);
   font-size: clamp(18px, 1.6vw, 21px);
   font-weight: 300;
   line-height: 1.45;
   text-wrap: pretty;
+}
+
+.cm-hero__copy p + p {
+  margin-top: 18px;
 }
 
 .cm-section {
@@ -986,8 +994,11 @@ body main.content .cm-section h2 {
     font-size: 28px;
   }
 
-  .cm-hero p {
+  .cm-hero__copy {
     margin-top: 36px;
+  }
+
+  .cm-hero__copy p {
     font-size: 17px;
   }
 

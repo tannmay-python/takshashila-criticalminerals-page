@@ -49,19 +49,19 @@ assert.equal(
 
 assert.equal(
   (source.match(/class="cm-media-card(?:\s|\")/g) ?? []).length,
-  3,
-  "Expected three selected video cards",
+  5,
+  "Expected four video cards and one audio podcast card",
 );
 
 assert.equal(
   (source.match(/class="cm-media-card cm-media-card--video"/g) ?? []).length,
-  3,
-  "Expected every media card to be a video card",
+  4,
+  "Expected four selected video cards",
 );
 
 assert.equal(
   (source.match(/class="cm-media-card__thumb"/g) ?? []).length,
-  3,
+  4,
   "Expected a thumbnail for every video card",
 );
 
@@ -92,16 +92,22 @@ assert(
 assert(
   source.includes('id="media"') &&
     source.includes("India’s Rare Earth Strategy: Digging Beneath the Budget Announcements") &&
-    source.includes("Are All Minerals Critical In The Same Way?"),
-  "Missing video section",
+    source.includes("Are All Minerals Critical In The Same Way?") &&
+    source.includes("The Geopolitics of Rare Earths") &&
+    source.includes("Pranay Kotasthane on the Political Economy of Rare Earths and Critical Minerals"),
+  "Missing video and podcast section",
 );
 
 assert(
   !source.includes("podcasts.apple.com/us/podcast/the-geopolitics-of-rare-earths") &&
-    !source.includes("www.mercatus.org/ideasofindia/pranay-kotasthane-political-economy-rare-earths-and-critical-minerals") &&
     !source.includes("podcasts.apple.com/in/podcast/india-should-double-down-on-rare-earth-recycling") &&
     !source.includes("https://www.youtube.com/watch?v=8Fs8QXs7fo8"),
-  "Audio-only podcast uploads should not be featured",
+  "Unselected podcast uploads should not be featured",
+);
+
+assert(
+  !source.includes("https://legion.takshashila.org.in/all-things-policy"),
+  "The media heading should not link to All Things Policy",
 );
 
 assert(
